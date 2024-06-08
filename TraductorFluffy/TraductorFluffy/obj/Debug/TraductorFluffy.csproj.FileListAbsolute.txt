@@ -1,0 +1,14 @@
+C:\Users\Oddy\source\repos\TraductorFluffy\TraductorFluffy\obj\Debug\TraductorFluffy.csproj.AssemblyReference.cache
+C:\Users\Oddy\source\repos\TraductorFluffy\TraductorFluffy\obj\Debug\TraductorFluffy.Form1.resources
+C:\Users\Oddy\source\repos\TraductorFluffy\TraductorFluffy\obj\Debug\TraductorFluffy.Properties.Resources.resources
+C:\Users\Oddy\source\repos\TraductorFluffy\TraductorFluffy\obj\Debug\TraductorFluffy.csproj.GenerateResource.cache
+C:\Users\Oddy\source\repos\TraductorFluffy\TraductorFluffy\obj\Debug\TraductorFluffy.csproj.CoreCompileInputs.cache
+C:\Users\Oddy\source\repos\TraductorFluffy\TraductorFluffy\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Oddy\source\repos\TraductorFluffy\TraductorFluffy\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Oddy\source\repos\TraductorFluffy\TraductorFluffy\obj\Debug\Traducto.8A6C4A2F.Up2Date
+C:\Users\Oddy\source\repos\TraductorFluffy\TraductorFluffy\bin\Debug\Traductor Fluffy.exe.config
+C:\Users\Oddy\source\repos\TraductorFluffy\TraductorFluffy\bin\Debug\Traductor Fluffy.exe
+C:\Users\Oddy\source\repos\TraductorFluffy\TraductorFluffy\bin\Debug\Traductor Fluffy.pdb
+C:\Users\Oddy\source\repos\TraductorFluffy\TraductorFluffy\obj\Debug\Traductor Fluffy.exe
+C:\Users\Oddy\source\repos\TraductorFluffy\TraductorFluffy\obj\Debug\Traductor Fluffy.pdb
+C:\Users\Oddy\source\repos\TraductorFluffy\TraductorFluffy\obj\Debug\TraductorFluffy.CreditsForm.resources
