@@ -1,0 +1,62 @@
+
+ /$$$$$$$$                       /$$                       /$$                                       
+|__  $$__/                      | $$                      | $$                                       
+   | $$  /$$$$$$  /$$$$$$   /$$$$$$$ /$$   /$$  /$$$$$$$ /$$$$$$    /$$$$$$   /$$$$$$                
+   | $$ /$$__  $$|____  $$ /$$__  $$| $$  | $$ /$$_____/|_  $$_/   /$$__  $$ /$$__  $$               
+   | $$| $$  \__/ /$$$$$$$| $$  | $$| $$  | $$| $$        | $$    | $$  \ $$| $$  \__/               
+   | $$| $$      /$$__  $$| $$  | $$| $$  | $$| $$        | $$ /$$| $$  | $$| $$                     
+   | $$| $$     |  $$$$$$$|  $$$$$$$|  $$$$$$/|  $$$$$$$  |  $$$$/|  $$$$$$/| $$                     
+   |__/|__/      \_______/ \_______/ \______/  \_______/   \___/   \______/ |__/                     
+                                                                                                     
+                                                                                                     
+                                                                                                     
+                                           /$$$$$$$$ /$$                  /$$$$$$   /$$$$$$          
+                                          | $$_____/| $$                 /$$__  $$ /$$__  $$         
+                                          | $$      | $$       /$$   /$$| $$  \__/| $$  \__//$$   /$$
+                                          | $$$$$   | $$      | $$  | $$| $$$$    | $$$$   | $$  | $$
+                                          | $$__/   | $$      | $$  | $$| $$_/    | $$_/   | $$  | $$
+                                          | $$      | $$      | $$  | $$| $$      | $$     | $$  | $$
+                                          | $$      | $$$$$$$$|  $$$$$$/| $$      | $$     |  $$$$$$$
+                                          |__/      |________/ \______/ |__/      |__/      \____  $$
+                                                                                            /$$  | $$
+                                                                                           |  $$$$$$/
+                                                                                            \______/ 
+GRACIAS POR DESCARGAR Y USAR ESTE PEQUEÑO TRADUCTOR HUMANO A FLUFFY.
+
+El proyecto es gratuito y libre para todos.
+Sin virus y sin nada peligroso por que me cagan esas cosas xd.
+
+Para verificar su correcto funcionamiento, en la carpeta deben de estar los siguientes archivos:
+- Traductor Fluffy.exe
+- Newtonsoft.Json.dll
+- translations.json
+Si alguno de estos 3 archivos no esta, entonces no va a funcionar correctamente el programa.
+
+Si el programa no te abre, entonces necesitas las librerias de Microsoft ".NET Frameworks 4.8".
+Link: https://dotnet.microsoft.com/es-es/download/dotnet-framework
+
+**Como usarlo/Sugerencias de uso:**
+
+1.- Para traducir tu texto necesitas escribir lo que tu quieras en el cuadro de texto de la izquierda, despues
+    debes de presionar el boton "Traducir!", escucharas un sonido que te confirmara que este pudo traducir tu texto
+    correctamente, si no te gusto la traducción, entonces puedes ir presionando el boton "Traducir!" la veces que quieras
+    hasta que el texto traducido sea de tu agrado.
+
+2.- Si escribiste demasiado y quieres borrar todo de los dos cuadros de texto entonces puedes presionar el boton "Limpiar"
+    para borrar todo el texto existente.
+
+3.- Al presionar el boton "Más..." se abrira una nueva ventana donde se encontraran sus debidos creditos a las personas
+    donde se saco información para hacer este proyecto posible.
+
+4.- Al presionar el texto "PayPal" este te llevara a mi cuenta de PayPal, esto en el caso donde quieras
+    hacer una donación :) xd.
+
+Las proximas actualizaciones se encontraran en el grupo, ahi publicare todo, si quieres información o si tienes alguna duda/sugerencia, tienes estas opciones:
+
+- Comentarlo en la publicación más reciente del programa.
+- Mandarme un mensaje al privado.
+- Mandarme mensaje por Discord: "mr.bonesyk".
+
+Espero les guste el programa.
+Lo hice con cariñop.
+Los quiere, Don Ram...Oddy.
